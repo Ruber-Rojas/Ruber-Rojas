@@ -39,11 +39,5 @@ Olá, meu nome é Ruth Rojas.
 ---
 
 <p align="center">
-  <img width="800" height="220" align="center" src="https://streak-stats.demolab.com?user=rojinhas&theme=midnight-purple&hide_border=true&border_radius=5&card_width=800">
-</p>
-
----
-
-<p align="center">
   <img width="400" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rojinhas&size_weight=0.15&count_weight=0.5&layout=compact&theme=midnight-purple">
 </p>
